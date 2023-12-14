@@ -1,4 +1,4 @@
 # tan-demo
 This is my first Git Repository.
 <br>
-Author - Tanishka Das
+Author - Tanishka Das (Monster University)
